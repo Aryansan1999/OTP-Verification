@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">otp verification</string>
+    <string name="_10_digit_phone_no">10 Digit Phone no,</string>
+    <string name="we_will_send_a_one_time_password_at_given_number">We will send a one time password at given number</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="_91">+91</string>
+    <string name="verify">Verify</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="getotp">Get OTP</string>
+    <string name="submit">SUBMIT</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
